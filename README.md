@@ -17,13 +17,13 @@
 
 ## Image/GIF/Video Manipulation
 
-- [/u/stabbot](Bots/stabbot.md)  [![Link to User][extlink]](http://reddit.com/u/stabbot)- A Reddit bot that stabilizes videos
-- [/u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it 
 - [/u/DeepFryBot](Bots/DeepFryBot.md) [![Link to User][extlink]](http://reddit.com/u/DeepFryBot) - Deep fries images
 - [/u/gifreversingbot](Bots/gifreversingbot.md) [![Link to User][extlink]](http://reddit.com/u/gifreversingbot) - Reverses a gif in a comment or post
-- [/u/vredditshare](Bots/vredditshare.md) [![Link to User][extlink]](http://reddit.com/u/vredditshare) - Reuploads Reddit hosted video
-- [/u/VredditDownloader](Bots/VredditDownloader.md) [![Link to User][extlink]](http://reddit.com/u/VredditDownloader) - Provides downloadable links for videos hosted on Reddit
 - [/u/morejpeg_auto](Bots/morejpeg_auto.md) [![Link to User][extlink]](http://reddit.com/u/morejpeg_auto) - Adds jpeg compression to an image
+- [/u/stabbot_crop](Bots/stabbot_crop.md) [![Link to User][extlink]](http://reddit.com/u/stabbot_crop) - A Reddit bot that stabilizes videos, also crops it 
+- [/u/stabbot](Bots/stabbot.md)  [![Link to User][extlink]](http://reddit.com/u/stabbot)- A Reddit bot that stabilizes videos
+- [/u/VredditDownloader](Bots/VredditDownloader.md) [![Link to User][extlink]](http://reddit.com/u/VredditDownloader) - Provides downloadable links for videos hosted on Reddit
+- [/u/vredditshare](Bots/vredditshare.md) [![Link to User][extlink]](http://reddit.com/u/vredditshare) - Reuploads Reddit hosted video
 
 ## Joke Response
 
@@ -31,10 +31,8 @@
 
 ## Utility
 
-- [/u/tippr](Bots/tippr.md) [![Link to User][extlink]](http://reddit.com/u/tippr) - A Bitcoin Cash tipbot that allows you to reward good content
-
-- [/u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
-
 - [/u/profanitycounter](Bots/profanitycounter.md) [![Link to User][extlink]](http://reddit.com/u/profanitycounter) - Generate a comprehensive, automatic profanity report for any user, or yourself.
+- [/u/RemindMeBot](Bots/RemindMeBot.md) [![Link to User][extlink]](http://reddit.com/u/RemindMeBot) - Remind a user about a comment or thread for later use
+- [/u/tippr](Bots/tippr.md) [![Link to User][extlink]](http://reddit.com/u/tippr) - A Bitcoin Cash tipbot that allows you to reward good content
 
 [extlink]: reddit_icon.png "Link to User"
